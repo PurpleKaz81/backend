@@ -13,6 +13,8 @@
 
 # look up price per km
 # multiply price per km by distance
+
 # get total price by adding time and distance components
+
 # return a hash with a key "rentals" which is an array of hashes with id and total price
 # print this out in output-backend.json file
